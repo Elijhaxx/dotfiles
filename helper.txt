@@ -1,0 +1,10 @@
+SUPPORTS:
+* Nerdfonts - CommitMone, SpaceMono
+
+* tpm - for tmux: tmux plugin manager
+
+* Alacritty themes from https://github.com/alacritty/alacritty-theme
+
+* i3 has .set_brightness.sh script that sets brightness, duh. And wallpaepr bro, the nice-blue-background.
+
+* Lazy for Neovim, plugins: telescope, treesitter. Had to install ripgrep for telescope. And used 'build' instead of 'do' under plugins for treesitter.
